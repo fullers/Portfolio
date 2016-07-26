@@ -1,0 +1,126 @@
+
+#img-profile {
+	float: left;
+	margin: 0 auto;
+	padding: 15px;
+}
+
+#mc-text {
+	line-height: 30px;
+	font-size: 14px;
+}
+
+.img-size {
+	display: inline-block;
+	width: 80px;
+	height: 80px;
+	margin-top: 20px;
+}
+#img-stackoverflow {
+
+	width: 75px;
+	height: 72px;
+	margin-top: 22px;
+}
+
+
+/* Begin CSS for Portfolio 
+   Creating the figures for main content (Hangman, RPG Game, Triva Game, Widget, and RPS*/
+
+.img-hangman {
+	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-1.jpg");
+    width: 210px;
+    height: 204px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#fig-hangman {
+	background: #1995dc;
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 20px;
+	position: relative;
+	top: 140px;
+}
+
+.img-rpggame {
+	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-2.jpg");
+    width: 210px;
+    height: 204px;
+    margin-left: 20px;
+    position: relative;
+    top: -204px;
+    right: -250px;
+}
+
+#fig-rpggame {
+	background: #1995dc;
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 20px;
+	position: relative;
+	top: 140px;
+}
+
+.img-triviagame {
+	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-5.jpg");
+    width: 210px;
+    height: 204px;
+    margin-left: 20px;
+    position: relative;
+    top: -160px;
+}
+
+#fig-triviagame {
+	background: #1995dc;
+	text-align: center;
+	color: #ffffff;
+	font-size: 20px;
+	padding: 20px;
+	position: relative;
+	top: 140px;
+}
+
+.img-widget {
+	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-7.jpg");
+    width: 210px;
+    height: 204px;
+    margin-left: 20px;
+    position: relative;
+    top: -364px;
+    right: -250px;
+}
+
+#fig-widget {
+	background: #1995dc;
+	text-align: center;
+	color: #ffffff;
+	font-size: 18px;
+	padding: 20px;
+	position: relative;
+	top: 140px;
+}
+
+.img-rps {
+	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-9.jpg");
+    width: 210px;
+    height: 204px;
+    margin-left: 20px;
+    position: relative;
+    top: -320px;
+}
+
+#fig-rps {
+	background: #1995dc;
+	text-align: center;
+	color: #ffffff;
+	font-size: 18px;
+	padding: 20px;
+	position: relative;
+	top: 140px;
+}
+
+/* End of CSS for Portfolio*/
