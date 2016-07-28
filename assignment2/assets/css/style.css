@@ -44,6 +44,7 @@
 	text-align: center;
 	color: #ffffff;
 	font-size: 20px;
+	font-weight: bold;
 	padding: 20px;
 	position: relative;
 	top: 140px;
@@ -105,7 +106,7 @@
 	font-size: 18px;
 	padding: 20px;
 	position: relative;
-	top: 140px;
+	top: 144px;
 }
 
 .img-rps {
@@ -128,3 +129,17 @@
 }
 
 /* End of CSS for Portfolio*/
+
+/* The animation code */
+@keyframes example {
+    from {background: #4aaaa5;}
+    to {background: yellow;}
+}
+
+/* The element to apply the animation to */
+figure {
+	background: #1995dc;
+	opacity: 0.7;
+    animation-name: example;
+    animation-duration: 5s;
+}
