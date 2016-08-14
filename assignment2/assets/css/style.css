@@ -32,7 +32,7 @@
    Creating the figures for main content (Hangman, RPG Game, Triva Game, Widget, and RPS*/
 
 .img-hangman {
-	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-1.jpg");
+	background-image: url("../images/technics-q-c-210-204-1.jpg");
     width: 210px;
     height: 204px;
     margin-left: 20px;
@@ -51,7 +51,7 @@
 }
 
 .img-rpggame {
-	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-2.jpg");
+	background-image: url("../images/technics-q-c-210-204-2.jpg");
     width: 210px;
     height: 204px;
     margin-left: 20px;
@@ -71,7 +71,7 @@
 }
 
 .img-triviagame {
-	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-5.jpg");
+	background-image: url("../images/technics-q-c-210-204-6.jpg");
     width: 210px;
     height: 204px;
     margin-left: 20px;
@@ -90,7 +90,7 @@
 }
 
 .img-widget {
-	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-7.jpg");
+	background-image: url("../images/technics-q-c-210-204-7.jpg");
     width: 210px;
     height: 204px;
     margin-left: 20px;
@@ -110,7 +110,7 @@
 }
 
 .img-rps {
-	background-image: url("http://lorempixel.com/output/technics-q-c-210-204-9.jpg");
+	background-image: url("../images/technics-q-c-210-204-9.jpg");
     width: 210px;
     height: 204px;
     margin-left: 20px;
